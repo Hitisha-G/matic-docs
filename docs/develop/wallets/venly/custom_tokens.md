@@ -25,6 +25,6 @@ You can always contact the Venly team via their in-app chat and ask them to add 
 
 ## Non-Fungible Tokens (NFTs)
 
-Venly has developed its service in such a way that it will automatically pick up custom created Non-Fungible Tokens (NFTs) if they follow the ERC721 and ERC1155 standard. This makes Venly the only wallet platform to show all NFTs that are live on the Polygon network.
+Venly has developed its service in such a way that it will automatically pick up custom created Non-Fungible Tokens (NFTs) if they follow the ERC721 and ERC1155 standard. 
 
 ![The Hulk ERC1155 NFT on Polygon](img/06.png)

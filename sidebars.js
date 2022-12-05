@@ -90,6 +90,16 @@ module.exports = {
         "develop/wallets/getting-started",
         {
           type: "category",
+          label: "Polygon Wallet Suite",
+          link: {
+            type: "generated-index",
+          },
+          items: [
+            "develop/wallets/polygon-web-wallet/web-wallet-v3-guide"
+          ],
+        },
+        {
+          type: "category",
           label: "Third-Party Apps",
           link: {
             type: "generated-index",
@@ -137,18 +147,7 @@ module.exports = {
             "develop/wallets/walletconnect",
             "develop/wallets/slashauth"
           ],
-        },
-        {
-          type: "category",
-          label: "Polygon Wallet Suite",
-          link: {
-            type: "generated-index",
-          },
-          items: [
-            "develop/wallets/polygon-web-wallet/web-wallet-v3-guide",
-            "develop/wallets/polygon-web-wallet/deposit-eth-dai-on-polygon",
-          ],
-        },
+        }
       ],
     },
     {
