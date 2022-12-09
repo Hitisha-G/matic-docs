@@ -58,4 +58,5 @@ The JSON RPC layer is an API layer that dApp developers use to interact with the
 The TxPool layer represents the transaction pool, and it is closely linked with other modules in the system, as transactions can be added from multiple entry points.
 
 ## GRPC
+GRPC or Google Remote Procedure Call is a robust open-source RPC framework used to build scalable and fast APIs.It was initially created by Google. 
 The GRPC layer is vital for operator interactions. Through it, node operators can easily interact with the client, providing an enjoyable UX.
