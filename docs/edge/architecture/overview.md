@@ -59,4 +59,4 @@ The TxPool layer represents the transaction pool, and it is closely linked with 
 
 ## gRPC
 gRPC, or Google Remote Procedure Call, is a robust open-source RPC framework that Google initially created to build scalable and fast APIs.
-The GRPC layer is vital for operator interactions. Through it, node operators can easily interact with the client, providing an enjoyable UX.
+The gRPC layer is vital for operator interactions. Through it, node operators can easily interact with the client, providing an enjoyable UX.
